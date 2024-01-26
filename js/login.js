@@ -10,7 +10,7 @@ function login() {
 
     if (email == Email && password == Password) {
         window.location.href = "./buteer.html";
-    } else {
-        alert("Wrong Email or Password");
-    }
+    
+}
+
 }
