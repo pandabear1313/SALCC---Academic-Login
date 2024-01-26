@@ -175,7 +175,7 @@ form .txt_field {
   text-decoration: underline;
 }
 
-input[type="Submit"] {
+input[type="button"] {
   width: 100%;
   height: 50px;
   border: 1px solid;
@@ -188,7 +188,7 @@ input[type="Submit"] {
 
 }
 
-input[type="Submit"]:hover {
+input[type="button"]:hover {
   background: #2691d9;
   color: #e9f4fb;
   transition: .5s;
